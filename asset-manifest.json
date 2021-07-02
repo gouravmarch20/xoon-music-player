@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/xoon-player/static/css/main.df197010.chunk.css",
+    "main.js": "/xoon-player/static/js/main.1c2bf047.chunk.js",
+    "main.js.map": "/xoon-player/static/js/main.1c2bf047.chunk.js.map",
+    "runtime-main.js": "/xoon-player/static/js/runtime-main.e912a7ef.js",
+    "runtime-main.js.map": "/xoon-player/static/js/runtime-main.e912a7ef.js.map",
+    "static/js/2.91a1972f.chunk.js": "/xoon-player/static/js/2.91a1972f.chunk.js",
+    "static/js/2.91a1972f.chunk.js.map": "/xoon-player/static/js/2.91a1972f.chunk.js.map",
+    "index.html": "/xoon-player/index.html",
+    "static/css/main.df197010.chunk.css.map": "/xoon-player/static/css/main.df197010.chunk.css.map",
+    "static/js/2.91a1972f.chunk.js.LICENSE.txt": "/xoon-player/static/js/2.91a1972f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e912a7ef.js",
+    "static/js/2.91a1972f.chunk.js",
+    "static/css/main.df197010.chunk.css",
+    "static/js/main.1c2bf047.chunk.js"
+  ]
+}
